@@ -5,7 +5,7 @@ import React from "react";
 
 const Header = () => {
   return (
-    <div className="p-3 px-5 flex items-center justify-between shadow-md">
+    <div className="p-3 px-5 flex items-center justify-between shadow-md ">
       <div className="flex gap-3 items-center">
         <Image src={"/MajorLogo.jpeg"} width={30} height={30} />
         <h2 className="font-bold text-xl">AI Short Vid</h2>
